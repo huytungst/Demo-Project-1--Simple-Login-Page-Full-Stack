@@ -3,6 +3,9 @@
 
 This is a very simple fullstack demo project for beginners, that demonstrates user registration, login, and account management functionality. The project consists of a React frontend and a Spring Boot backend.
 
+This project is developed using Java 11.0.17, Spring Boot 2.7.10 and React 18.2.0.
+
+
 ## Features
 
 - User registration
